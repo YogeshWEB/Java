@@ -14,5 +14,11 @@ public class matrix {
             }
             System.out.println(" ");
         }
+        for(int n[]:num){
+            for(int m:n){
+                System.out.print(m + " ");
+            }
+            System.out.println();
+        }
     }
 }
